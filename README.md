@@ -11,6 +11,14 @@ Este proyecto provee un endpoint para obtener información de artistas desde la 
 - **MySQL** u otra base de datos soportada
 
 ---
+## Documentación
+
+Si quieres explorar la documentación de la API (generada con Scramble), visita:
+
+https://apispotify.racielhernandez.com/docs/api
+
+Aquí encontrarás los endpoints disponibles, parámetros, ejemplos de requests y respuestas.
+---
 
 ## Configuración
 1. **Clona el repositorio**:
